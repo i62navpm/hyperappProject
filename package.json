@@ -1,0 +1,12 @@
+{
+  "name": "hyperapp-project",
+  "version": "1.0.0",
+  "description": "Hyperapp demo project",
+  "main": "index.js",
+  "repository": "https://github.com/i62navpm/hyperappProject",
+  "author": "Manuel Navarro Pérez <manuelnavarro1987@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hyperapp": "^1.2.5"
+  }
+}
